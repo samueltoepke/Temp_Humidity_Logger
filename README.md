@@ -10,7 +10,7 @@ A temperature/humidty logger. Using a Modern Device BBB, a DHT22 and microSD car
 * Windows 7 Professional x64 
 * Arduino IDE 1.6.3          http://www.arduino.cc/en/main/Software
 * FTDI Drivers               http://www.ftdichip.com/FTDrivers.htm
-* Octave or MATLAB.          http://www.gnu.org/software/octave/
+* Octave or MATLAB           http://www.gnu.org/software/octave/
 * Source code in src/
 
 <h3>HARDWARE:</h3>

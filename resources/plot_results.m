@@ -6,7 +6,7 @@
 %   temperature (F) and third column is humidity (%).
 %
 % Can be run from command line with "$ octave --persist plot_results.m".
-% Make sure log_file.txt is in the same directory.
+% Make sure LOG_FILE.TXT is in the same directory.
 
 % Cleanup from possible previous runs.
 close all;
